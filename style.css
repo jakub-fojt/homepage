@@ -1,0 +1,26 @@
+body{
+    background: lightblue;
+}
+
+h1 {
+    color: blue;
+}
+p {
+    color: #c40e3c;
+}
+h2 {
+    color: #24c73f;
+}
+
+.yellow {
+
+    color:yellowgreen;
+}
+
+
+.face {
+
+color: #4b1081;
+font-style: inherit;
+
+}
